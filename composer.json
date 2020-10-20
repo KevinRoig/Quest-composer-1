@@ -1,0 +1,13 @@
+{
+    "name": "kevin/composer-quest",
+    "authors": [
+        {
+            "name": "Kevin Roig",
+            "email": "kevinroig37@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+        }
+}
